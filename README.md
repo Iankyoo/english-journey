@@ -50,6 +50,7 @@
 
 | | | |
 |---|---|---|
+| 🧭 | [**STUDY-GUIDE.md**](STUDY-GUIDE.md) | **Comece aqui** — rotina diária, protocolos por habilidade e como usar o repo |
 | 🩹 | [**error-log.md**](error-log.md) | Todo erro corrigido, com o padrão por trás dele |
 | 📈 | [**PROGRESS.md**](PROGRESS.md) | Log semanal — dias, Anki, output, input |
 | 📓 | [**daily-logs/**](daily-logs/) | 10 linhas por dia — draft cru + versão revisada |
