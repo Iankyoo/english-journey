@@ -52,6 +52,7 @@
 |---|---|---|
 | 🧭 | [**STUDY-GUIDE.md**](STUDY-GUIDE.md) | **Comece aqui** — rotina diária, protocolos por habilidade e como usar o repo |
 | 📚 | [**modules/**](modules/) | As aulas em si — teoria, exemplos, erros de brasileiro e critério de conclusão |
+| 🔁 | [**anki/**](anki/) | Setup do Anki do zero + baralhos prontos gerados das aulas |
 | 🩹 | [**error-log.md**](error-log.md) | Todo erro corrigido, com o padrão por trás dele |
 | 📈 | [**PROGRESS.md**](PROGRESS.md) | Log semanal — dias, Anki, output, input |
 | 📓 | [**daily-logs/**](daily-logs/) | 10 linhas por dia — draft cru + versão revisada |

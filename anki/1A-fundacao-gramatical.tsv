@@ -1,0 +1,109 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:English::Grammar Patterns
+#tags column:3
+Eu tenho 28 anos. → I ____ 28.	am	1A::01-verb-to-be
+Está chovendo. → ____ raining.	It's	1A::01-verb-to-be
+Are you ready? → Yes, I ____.	am	1A::01-verb-to-be
+Ele é engenheiro. → He is ____ engineer.	an	1A::01-verb-to-be
+Estou com fome. → I ____ hungry.	am	1A::01-verb-to-be
+Tem um bug na main. → ____ a bug on main.	There's	1A::01-verb-to-be
+As pessoas estão atrasadas. → People ____ late.	are	1A::01-verb-to-be
+Ele trabalha aqui. → He ____ here.	works	1A::02-present-simple-vs-continuous
+Does he ____ (work) here?	work	1A::02-present-simple-vs-continuous
+Ela não entende. → She ____ understand.	doesn't	1A::02-present-simple-vs-continuous
+Eu sei o que você quer dizer. → I ____ what you mean.	know (nunca "am knowing")	1A::02-present-simple-vs-continuous
+Estou trabalhando nisso agora. → I ____ on it right now.	'm working	1A::02-present-simple-vs-continuous
+Nós fazemos deploy 2x por semana. → We ____ twice a week.	deploy	1A::02-present-simple-vs-continuous
+run + ing = ?	running	1A::02-present-simple-vs-continuous
+try + s = ?	tries	1A::02-present-simple-vs-continuous
+Eu não fui. → I didn't ____.	go	1A::03-past-simple
+Did you ____ (finish) it?	finish	1A::03-past-simple
+Você estava lá? → ____ you there?	Were	1A::03-past-simple
+Eu quebrei o build. → I ____ the build.	broke	1A::03-past-simple
+Ele leu os docs. → He ____ the docs.	read	1A::03-past-simple
+Eu consertei ontem. → I ____ it yesterday.	fixed (não "have fixed")	1A::03-past-simple
+needed → quantas sílabas o -ed adiciona?	1 (/ɪd/ — só após t/d)	1A::03-past-simple
+worked → quantas sílabas?	1 no total (/t/)	1A::03-past-simple
+A vida é difícil. → ____ life is hard.	— (zero)	1A::04-articles
+Sou desenvolvedor. → I'm ____ developer.	a	1A::04-articles
+___ user (a/an?)	a (som /juː/)	1A::04-articles
+___ hour (a/an?)	an (h mudo)	1A::04-articles
+___ MVP (a/an?)	an (lê-se "em")	1A::04-articles
+Eu falo inglês. → I speak ____ English.	— (zero)	1A::04-articles
+Semana que vem → ____ next week	— (zero)	1A::04-articles
+Achei um bug. O bug está no auth. → I found ___ bug. ___ bug is in auth.	a / The	1A::04-articles
+A maioria dos devs → ____ most developers	— (zero)	1A::04-articles
+Preciso de mais informações. → I need more ____.	information	1A::05-countable-uncountable
+Obrigado pelo feedback. → Thanks for the ____.	feedback	1A::05-countable-uncountable
+Ele me deu um bom conselho. → He gave me ____ good advice.	a piece of / some	1A::05-countable-uncountable
+As notícias são ruins. → The news ____ bad.	is	1A::05-countable-uncountable
+As pessoas estão esperando. → People ____ waiting.	are	1A::05-countable-uncountable
+Quanto tempo temos? → How ____ time do we have?	much	1A::05-countable-uncountable
+Quantos bugs? → How ____ bugs?	many	1A::05-countable-uncountable
+Todo mundo está pronto. → Everyone ____ ready.	is	1A::05-countable-uncountable
+Não tenho tempo nenhum. → I don't have ____ time.	any	1A::06-quantifiers
+Tenho algumas sugestões (positivo). → I have ____ ideas.	a few	1A::06-quantifiers
+Quase ninguém revisou. → ____ people reviewed it.	Few	1A::06-quantifiers
+Temos pouco tempo (não vai dar). → We have ____ time.	little	1A::06-quantifiers
+Quantos bugs? → How ____ bugs?	many	1A::06-quantifiers
+Quanto tempo? → How ____ time?	much	1A::06-quantifiers
+Não é rápido o suficiente. → It's not ____.	fast enough	1A::06-quantifiers
+Quantos passaram? Nenhum. → ____.	None	1A::06-quantifiers
+Está chovendo. → ____ raining.	It's	1A::07-pronouns
+Tem três bugs abertos. → ____ three open bugs.	There are	1A::07-pronouns
+Eu a vi ontem. → I saw ____ yesterday.	her	1A::07-pronouns
+Eu e o João → ____ opened the PR	John and I	1A::07-pronouns
+O serviço perdeu a conexão dele. → lost ____ connection	its (sem apóstrofo)	1A::07-pronouns
+É uma boa ideia. → ____ a good idea.	It's	1A::07-pronouns
+Ele fez sozinho. → He did it ____.	himself	1A::07-pronouns
+Este branch é meu. → This branch is ____.	mine	1A::07-pronouns
+Na segunda-feira → ____ Monday	on	1A::08-prepositions
+À noite → ____ night	at	1A::08-prepositions
+De manhã → ____ the morning	in	1A::08-prepositions
+Semana que vem → ____ next week	— (nenhuma)	1A::08-prepositions
+Depende de você. → It depends ____ you.	on	1A::08-prepositions
+Escute a música. → Listen ____ the music.	to	1A::08-prepositions
+Me espera. → Wait ____ me.	for	1A::08-prepositions
+Vou pra casa. → I'm going ____ home.	— (nenhuma)	1A::08-prepositions
+Estou numa call. → I'm ____ a call.	on	1A::08-prepositions
+Estou numa reunião. → I'm ____ a meeting.	in	1A::08-prepositions
+Manda até sexta (prazo). → Send it ____ Friday.	by	1A::08-prepositions
+Sou bom em inglês. → I'm good ____ English.	at	1A::08-prepositions
+Vamos discutir isso. → Let's discuss ____ it.	— (discuss não leva prep.)	1A::08-prepositions
+Onde você está? → Where ____?	are you	1A::09-questions-and-tags
+O que isso significa? → What ____ this ____?	does / mean	1A::09-questions-and-tags
+Quem quebrou o build? → Who ____ the build?	broke (sem "did")	1A::09-questions-and-tags
+Você sabe onde está o arquivo? → Do you know where ____?	the file is	1A::09-questions-and-tags
+Você pode ajudar? → ____ you help?	Can (sem "do")	1A::09-questions-and-tags
+O build está quebrado, não está? → The build is broken, ____?	isn't it	1A::09-questions-and-tags
+Você não usa Windows, usa? → You don't use Windows, ____?	do you	1A::09-questions-and-tags
+Vamos começar, vamos? → Let's start, ____?	shall we	1A::09-questions-and-tags
+Quanto custa? → How much ____?	does it cost	1A::09-questions-and-tags
+Ele pode ajudar. → He ____ help.	can (sem -s)	1A::10-basic-modals
+Eu tenho que ir. → I must ____ go.	∅ (sem "to")	1A::10-basic-modals
+Você pode revisar? → ____ you review this?	Can/Could (sem "do")	1A::10-basic-modals
+Você não precisa vir. → You ____ come.	don't have to	1A::10-basic-modals
+Você não pode commitar segredos. → You ____ commit secrets.	mustn't	1A::10-basic-modals
+Ela tem que aprovar. → She ____ approve.	has to	1A::10-basic-modals
+Deveríamos testar isso. → We ____ test this.	should	1A::10-basic-modals
+Pedido educado padrão no trabalho →	Could you...?	1A::10-basic-modals
+Uma solução simples → a ____	simple solution	1A::11-adjectives-and-adverbs
+Eu sempre verifico os logs. → I ____ the logs.	always check	1A::11-adjectives-and-adverbs
+Ele fala bem inglês. → He speaks English ____.	well	1A::11-adjectives-and-adverbs
+Ele trabalha muito. → He works ____.	hard	1A::11-adjectives-and-adverbs
+Ele quase não trabalha. → He ____ works.	hardly	1A::11-adjectives-and-adverbs
+Estou entediado. → I'm ____.	bored	1A::11-adjectives-and-adverbs
+A reunião é chata. → The meeting is ____.	boring	1A::11-adjectives-and-adverbs
+Estou interessado na vaga. → I'm ____ in the role.	interested	1A::11-adjectives-and-adverbs
+Ela explicou a arquitetura claramente. → She explained ____	the architecture clearly	1A::11-adjectives-and-adverbs
+melhor → ____	better	1A::12-comparatives-superlatives
+pior → ____ / o pior → ____	worse / the worst	1A::12-comparatives-superlatives
+mais fácil → ____	easier (não "more easy")	1A::12-comparatives-superlatives
+mais rápido que → faster ____	than	1A::12-comparatives-superlatives
+tão rápido quanto → ____ fast ____	as ... as	1A::12-comparatives-superlatives
+o mesmo que → the same ____	as	1A::12-comparatives-superlatives
+duas vezes mais rápido que → ____	twice as fast as	1A::12-comparatives-superlatives
+muito mais rápido → ____ faster	much/far (nunca "very")	1A::12-comparatives-superlatives
+Quanto mais testes, mais seguro → ____ tests, ____ safer	The more / the	1A::12-comparatives-superlatives
