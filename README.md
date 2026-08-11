@@ -51,6 +51,7 @@
 | | | |
 |---|---|---|
 | 🧭 | [**STUDY-GUIDE.md**](STUDY-GUIDE.md) | **Comece aqui** — rotina diária, protocolos por habilidade e como usar o repo |
+| 📚 | [**modules/**](modules/) | As aulas em si — teoria, exemplos, erros de brasileiro e critério de conclusão |
 | 🩹 | [**error-log.md**](error-log.md) | Todo erro corrigido, com o padrão por trás dele |
 | 📈 | [**PROGRESS.md**](PROGRESS.md) | Log semanal — dias, Anki, output, input |
 | 📓 | [**daily-logs/**](daily-logs/) | 10 linhas por dia — draft cru + versão revisada |
@@ -78,19 +79,20 @@
 📅 *3 semanas*
 
 > Auditoria: marque só o que consegue **produzir** sem pensar, não apenas reconhecer.
+> 📚 **Aulas completas:** [modules/1A-fundacao-gramatical/](modules/1A-fundacao-gramatical/)
 
-- [ ] Verbo *to be* (afirmativo, negativo, interrogativo)
-- [ ] Present Simple vs Present Continuous
-- [ ] Past Simple (regulares e irregulares)
-- [ ] Artigos: a / an / the / zero article
-- [ ] Substantivos contáveis e incontáveis
-- [ ] Quantificadores: some, any, much, many, a few, a little
-- [ ] Pronomes (sujeito, objeto, possessivo, reflexivo)
-- [ ] Preposições de tempo e lugar
-- [ ] Formação de perguntas e question tags
-- [ ] Modais básicos: can, must, should, have to
-- [ ] Adjetivos e advérbios — ordem e posição
-- [ ] Comparativos e superlativos
+- [ ] [Verbo *to be* (afirmativo, negativo, interrogativo)](modules/1A-fundacao-gramatical/01-verb-to-be/)
+- [ ] [Present Simple vs Present Continuous](modules/1A-fundacao-gramatical/02-present-simple-vs-continuous/)
+- [ ] [Past Simple (regulares e irregulares)](modules/1A-fundacao-gramatical/03-past-simple/)
+- [ ] [Artigos: a / an / the / zero article](modules/1A-fundacao-gramatical/04-articles/)
+- [ ] [Substantivos contáveis e incontáveis](modules/1A-fundacao-gramatical/05-countable-uncountable/)
+- [ ] [Quantificadores: some, any, much, many, a few, a little](modules/1A-fundacao-gramatical/06-quantifiers/)
+- [ ] [Pronomes (sujeito, objeto, possessivo, reflexivo)](modules/1A-fundacao-gramatical/07-pronouns/)
+- [ ] [Preposições de tempo e lugar](modules/1A-fundacao-gramatical/08-prepositions/)
+- [ ] [Formação de perguntas e question tags](modules/1A-fundacao-gramatical/09-questions-and-tags/)
+- [ ] [Modais básicos: can, must, should, have to](modules/1A-fundacao-gramatical/10-basic-modals/)
+- [ ] [Adjetivos e advérbios — ordem e posição](modules/1A-fundacao-gramatical/11-adjectives-and-adverbs/)
+- [ ] [Comparativos e superlativos](modules/1A-fundacao-gramatical/12-comparatives-superlatives/)
 
 ### 🛠️ Mini Projeto — Daily Log
 - [ ] Escrever 10 linhas por dia durante 14 dias
