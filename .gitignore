@@ -1,0 +1,30 @@
+# Anki
+*.apkg
+*.colpkg
+*.anki2
+
+# Áudio / vídeo de shadowing e gravações
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.webm
+
+# PDFs de material com copyright — não redistribuir
+material/
+*.pdf
+
+# Rascunhos privados
+private/
+*.local.md
+
+# SO / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
