@@ -16,17 +16,17 @@
 
 <!-- progress:start -->
 
-**`░░░░░░░░░░░░░░░░░░░░░░░░`  0.0%**
+**`█░░░░░░░░░░░░░░░░░░░░░░░`  4.1%**
 
-`Módulos concluídos: 0 / 12` `Tarefas: 0 / 145` `Duração estimada: ~38 semanas`
+`Módulos concluídos: 0 / 12` `Tarefas: 6 / 145` `Duração estimada: ~38 semanas`
 
 <details>
 <summary>Progresso por seção</summary>
 
 | Seção | | Feito |
 |-------|---|-------|
-| **0** — Setup e Rotina | `░░░░░░░░░░░░` | 0/9 |
-| **1A** — Fundação Gramatical (A1–A2) | `░░░░░░░░░░░░` | 0/15 |
+| **0** — Setup e Rotina | `███████░░░░░` | 5/9 |
+| **1A** — Fundação Gramatical (A1–A2) | `█░░░░░░░░░░░` | 1/15 |
 | **1B** — Vocabulário Base (2.000 palavras) | `░░░░░░░░░░░░` | 0/8 |
 | **Extra** — Som e Ouvido | `░░░░░░░░░░░░` | 0/8 |
 | **2** — Gramática Intermediária (B1) | `░░░░░░░░░░░░` | 0/14 |
