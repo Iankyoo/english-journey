@@ -64,15 +64,15 @@
 ## 🧭 Módulo 0 — Setup e Rotina
 📅 *3 dias*
 
-- [ ] Definir horário fixo de estudo (mínimo 45min/dia)
-- [ ] Instalar e configurar Anki
+- [x] Definir horário fixo de estudo (mínimo 45min/dia)
+- [x] Instalar e configurar Anki
 - [ ] Criar deck "English — Vocabulary"
 - [ ] Criar deck "English — Grammar Patterns"
 - [ ] Escolher dicionário monolíngue (Cambridge ou Longman)
 - [ ] Instalar extensão de tradução por hover (Google Translate / DeepL)
-- [ ] Trocar sistema, celular e IDE para inglês
-- [ ] Criar arquivo `error-log.md` neste repositório
-- [ ] Definir métrica semanal de progresso
+- [x] Trocar sistema, celular e IDE para inglês
+- [x] Criar arquivo `error-log.md` neste repositório
+- [x] Definir métrica semanal de progresso
 
 ---
 
@@ -82,7 +82,7 @@
 > Auditoria: marque só o que consegue **produzir** sem pensar, não apenas reconhecer.
 > 📚 **Aulas completas:** [modules/1A-fundacao-gramatical/](modules/1A-fundacao-gramatical/)
 
-- [ ] [Verbo *to be* (afirmativo, negativo, interrogativo)](modules/1A-fundacao-gramatical/01-verb-to-be/)
+- [x] [Verbo *to be* (afirmativo, negativo, interrogativo)](modules/1A-fundacao-gramatical/01-verb-to-be/)
 - [ ] [Present Simple vs Present Continuous](modules/1A-fundacao-gramatical/02-present-simple-vs-continuous/)
 - [ ] [Past Simple (regulares e irregulares)](modules/1A-fundacao-gramatical/03-past-simple/)
 - [ ] [Artigos: a / an / the / zero article](modules/1A-fundacao-gramatical/04-articles/)
